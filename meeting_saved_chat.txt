@@ -1,0 +1,855 @@
+08:02:35 From  Host  to  Everyone:
+	Yang mau request lagu boleh nih
+08:03:12 From  Participant1  to  Everyone:
+	opick-tombo ati *****
+08:03:16 From  Participant3  to  Everyone:
+	cocok
+08:03:37 From  Host  to  Everyone:
+	Okeeh
+08:09:31 From  Participant1  to  Everyone:
+	pagi  *****
+08:09:40 From  Participant2  to  Everyone:
+	pagi *****
+08:10:36 From  Participant4  to  Everyone:
+	pagi *****
+08:10:55 From  Participant5  to  Everyone:
+	pernah
+08:11:31 From  Participant5  to  Everyone:
+	semacam hosting gitu ***** wkwk
+08:12:38 From  Participant6  to  Everyone:
+	heroku itu adalah web hosting berbasis cloud *****
+08:16:21 From  Host  to  Everyone:
+	remove bg
+08:16:26 From  Participant7  to  Everyone:
+	pernah *****
+08:16:27 From  Participant2  to  Everyone:
+	pernah *****
+08:16:28 From  Participant8  to  Everyone:
+	tau *****
+08:16:28 From  Participant9  to  Everyone:
+	iya menghapus backgroud
+08:16:28 From  Participant9  to  Everyone:
+	tau *****
+08:16:29 From  Participant10  to  Everyone:
+	pernah *****
+08:16:29 From  Participant11  to  Everyone:
+	pernah *****
+08:16:30 From  Participant12  to  Everyone:
+	pernah *****
+08:16:30 From  Participant13  to  Everyone:
+	pernah
+08:16:30 From  Participant14  to  Everyone:
+	ering
+08:16:30 From  Participant5  to  Everyone:
+	penghilang background
+08:16:31 From  Host  to  Everyone:
+	ilovepdf
+08:16:32 From  Participant15  to  Everyone:
+	pernah *****
+08:16:34 From  Participant16  to  Everyone:
+	pernah *****
+08:16:35 From  Participant5  to  Everyone:
+	pernahh
+08:16:36 From  Participant17  to  Everyone:
+	sering pake
+08:16:36 From  Participant18  to  Everyone:
+	pernah *****
+08:16:37 From  Participant12  to  Everyone:
+	pernah
+08:16:37 From  Participant13  to  Everyone:
+	pernah juga
+08:16:38 From  Participant9  to  Everyone:
+	convert
+08:16:38 From  Participant19  to  Everyone:
+	pernah *****
+08:16:38 From  Participant20  to  Everyone:
+	pernah *****
+08:16:39 From  Participant21  to  Everyone:
+	pernah
+08:16:39 From  Participant6  to  Everyone:
+	pernah *****
+08:16:41 From  Participant22  to  Everyone:
+	Pernah *****
+08:16:46 From  Participant3  to  Everyone:
+	pernah
+08:16:51 From  Participant9  to  Everyone:
+	compress
+08:31:58 From  Participant2  to  Everyone:
+	iya *****
+08:42:20 From  Participant2  to  Everyone:
+	durasinya penggunaan berapa lama *****?
+08:42:28 From  Participant2  to  Everyone:
+	GitHub Student
+08:42:56 From  Participant33  to  Everyone:
+	***** izon bertanya 
+	perbedaan wsgi sama asgi itu apa ya *****
+08:49:52 From  Host  to  Everyone:
+	[Link Sharing]
+08:50:22 From  Participant23  to  Everyone:
+	***** izin tanya, CORS origin itu apa? cara solvingnya gimana *****?
+08:53:58 From  Participant23  to  Everyone:
+	termasuk membatasi method yang digunakan *****?
+08:54:25 From  Participant23  to  Everyone:
+	oke *****, terimakasih
+08:55:23 From  Host  to  Everyone:
+	[Link Sharing]
+08:59:00 From  Participant14  to  Everyone:
+	+saya sudah buat dulu ***** klau gk salah
+08:59:26 From  Participant24  to  Everyone:
+	Izin bertanya *****, kalau website nya menggunakan node js dan flask secara bersamaan apakah bisa?
+08:59:44 From  Participant24  to  Everyone:
+	ya *****
+09:02:55 From  Participant2  to  Everyone:
+	terlihat *****
+09:03:19 From  Host  to  Everyone:
+	[Link Sharing]
+09:05:15 From  Participant25  to  Everyone:
+	udah smpe wekcime heroku *****
+09:05:23 From  Participant25  to  Everyone:
+	welcome#
+09:05:24 From  Participant3  to  Everyone:
+	aman *****
+09:05:29 From  Participant22  to  Everyone:
+	udah sampe dashboard *****
+09:06:25 From  Participant25  to  Everyone:
+	nama apk agak bingung ***** wkwk
+09:11:28 From  Participant14  to  Everyone:
+	Done
+09:11:30 From  Participant2  to  Everyone:
+	masih install *****
+09:11:38 From  Participant3  to  Everyone:
+	masih download *****, maklum teathering wkwk
+09:12:55 From  Participant26  to  Everyone:
+	Warning: Our terms of service have changed: [Link Sharing]
+	heroku/7.53.0 win32-x64 node-v12.21.0
+	kalua gini dah aman ngg *****
+09:13:06 From  Participant3  to  Everyone:
+	lagi install *****
+09:13:43 From  Participant26  to  Everyone:
+	iya *****
+09:14:04 From  Participant25  to  Everyone:
+	C:\Users\user>heroku --version
+	 »   Warning: Our terms of service have changed: [Link Sharing]
+	heroku/7.53.0 win32-x64 node-v12.21.0
+09:15:46 From  Participant3  to  Everyone:
+	aman *****
+09:15:48 From  Participant27  to  Everyone:
+	gak berubah-ubah ***** nama default nya
+09:15:55 From  Participant28  to  Everyone:
+	installingnya agak lama *****
+09:15:56 From  Participant27  to  Everyone:
+	:( jadi kelupaan terus
+09:17:21 From  Participant27  to  Everyone:
+	oh ia *****
+09:17:43 From  Host  to  Everyone:
+	git clone [Link Sharing]
+09:19:43 From  Participant28  to  Everyone:
+	aman *****
+09:19:53 From  Participant29  to  Everyone:
+	masih aman *****
+09:19:53 From  Participant19  to  Everyone:
+	aman *****
+09:19:55 From  Participant3  to  Everyone:
+	aman *****
+09:20:47 From  Participant25  to  Everyone:
+	gak berhasil clone *****
+09:22:05 From  Participant7  to  Everyone:
+	saya clone manual via zip ga masalah kan ya *****? git saya masih ga bisa dri kmaren"
+09:22:44 From  Participant25  to  Everyone:
+	oke ***** makasih *****
+09:24:10 From  Participant14  to  Everyone:
+	lagu Rude Boy & White Cherry - Late Night Melancholy
+09:24:26 From  Participant14  to  Everyone:
+	Coacj 😁
+09:24:31 From  Host  to  Everyone:
+	Okaay
+09:25:07 From  Participant30  to  Everyone:
+	syahdunya wkwkkw
+09:25:16 From  Participant26  to  Everyone:
+	lagu  tidur
+09:25:16 From  Host  to  Everyone:
+	JANGAN TIDUR YAAA
+09:25:28 From  Host  to  Everyone:
+	🤣
+09:25:33 From  Participant30  to  Everyone:
+	ehh iyaiyaa ***** 🗿
+09:25:37 From  Participant31  to  Everyone:
+	wkwk
+09:26:00 From  Participant34  to  Everyone:
+	kirain tombo ati, tp intronya ko ga selesai2 wkwk
+09:26:10 From  Participant28  to  Everyone:
+	adzan instrumental *****
+09:26:29 From  Participant3  to  Everyone:
+	lagu lebaran ***** wkwk
+09:27:07 From  Participant30  to  Everyone:
+	req op paripi koumei ***** 🗿
+09:27:36 From  Host  to  Everyone:
+	Gimana itu adzan instrumental 😭
+09:27:48 From  Participant31  to  Everyone:
+	sesad
+09:28:00 From  Host  to  Everyone:
+	Lagu lebaran apa nih?
+09:29:07 From  Participant3  to  Everyone:
+	selamat lebaran wkwk
+09:29:25 From  Participant30  to  Everyone:
+	buset diputerin beneran 🤣
+09:29:27 From  Participant31  to  Everyone:
+	wkwk
+09:29:33 From  Participant28  to  Everyone:
+	kabur wibu
+09:29:36 From  Host  to  Everyone:
+	Okaay
+09:29:44 From  Participant26  to  Everyone:
+	lagu wibu bgt
+	wkwkkw
+09:29:47 From  Participant1  to  Everyone:
+	rasa ingin bergoyang.. stonk
+09:29:53 From  Host  to  Everyone:
+	Hayolo kena bully
+09:29:56 From  Participant14  to  Everyone:
+	💃💃💃💃💃💃 goyang gesss
+09:30:17 From  Participant9  to  Everyone:
+	kaya lagu senam ibu ibu tiap minggu pagi
+09:30:24 From  Participant8  to  Everyone:
+	yaahh abis
+09:30:33 From  Participant28  to  Everyone:
+	kok gak 10jam
+09:30:35 From  Participant23  to  Everyone:
+	mars perindo
+09:30:50 From  Participant14  to  Everyone:
+	🤣wkwkwk lagunya
+09:30:52 From  Participant3  to  Everyone:
+	Lah kok ahahaha
+09:30:52 From  Participant31  to  Everyone:
+	wkwk:(
+09:30:55 From  Participant17  to  Everyone:
+	wkwkwkwk ayo makan opor
+09:31:03 From  Participant8  to  Everyone:
+	rasa ingin makan opor stonk
+09:31:09 From  Participant3  to  Everyone:
+	rendang mana rendang
+09:31:15 From  Host  to  Everyone:
+	Masih lama looh buka nya
+09:31:30 From  Participant28  to  Everyone:
+	selamat berbuka
+09:31:49 From  Participant35  to  Everyone:
+	Req genjer genjer *****
+09:32:00 From  Participant30  to  Everyone:
+	lebaran juga masih lama *****😥
+09:32:04 From  Participant23  to  Everyone:
+	req adzan maghrib
+09:32:09 From  Participant30  to  Everyone:
+	adjie offside wkwk
+09:32:15 From  Participant35  to  Everyone:
+	HAHAHAH
+09:32:18 From  Participant36  to  Everyone:
+	req ASMR es teh
+09:32:23 From  Participant35  to  Everyone:
+	biar tetap terjaga
+09:32:29 From  Host  to  Everyone:
+	Eh apanih genjer2? gass gak nih?
+09:32:32 From  Participant35  to  Everyone:
+	Waduhhh
+09:32:42 From  Participant23  to  Everyone:
+	priiiiittttt... offside
+09:32:46 From  Participant35  to  Everyone:
+	bebas *****h wkwk
+09:32:51 From  Participant28  to  Everyone:
+	ganjar
+09:33:11 From  Participant35  to  Everyone:
+	selagi untuk mengingat kejadian g30spki oke ***** keknya
+09:33:38 From  Participant30  to  Everyone:
+	heeee
+09:34:08 From  Participant17  to  Everyone:
+	wkwkwkwkk
+09:34:09 From  Participant28  to  Everyone:
+	marjan cinematic universe
+09:34:15 From  Participant23  to  Everyone:
+	iklan marjan wkwk
+09:34:17 From  Participant30  to  Everyone:
+	basshunter - dota *****
+09:34:29 From  Participant35  to  Everyone:
+	Wakwlwkwl
+09:34:59 From  Participant28  to  Everyone:
+	nonton windah ***** lagi ngelive
+09:35:03 From  Host  to  Everyone:
+	lanjut part 2 gak nih?
+09:35:10 From  Host  to  Everyone:
+	Siapaa windaah, wkwk
+09:35:16 From  Participant36  to  Everyone:
+	kalo rame lanjut part 2 *****
+09:35:19 From  Participant30  to  Everyone:
+	***** bukan bocil kematian sii
+09:35:23 From  Participant28  to  Everyone:
+	windah basudara
+09:35:23 From  Participant17  to  Everyone:
+	part 2
+09:35:24 From  Participant38  to  Everyone:
+	keren banget sih iklan marjan sekarang wkwk
+09:35:28 From  Participant21  to  Everyone:
+	windah
+09:35:34 From  Participant30  to  Everyone:
+	marjan colab sama marvel
+09:36:31 From  Participant9  to  Everyone:
+	liukang
+09:41:20 From  Participant21  to  Everyone:
+	bias *****
+09:41:21 From  Participant34  to  Everyone:
+	aman *****
+09:41:24 From  Participant28  to  Everyone:
+	WARNING: git-filter-branch has a glut of gotchas generating mangled history
+	         rewrites.  Hit Ctrl-C before proceeding to abort, then use an
+	         alternative filtering tool such as 'git filter-repo'
+	         [Link Sharing] instead.  See the
+	         filter-branch manual page for more details; to squelch this warning,
+	         set FILTER_BRANCH_SQUELCH_WARNING=1.
+	Proceeding with filter-branch...
+	
+	Rewrite 295c9e1a15382cd26ac2ca2d767d276ea80dce8d (3/4) (1 seconds passed, remaining 0 predicted)
+	Ref 'refs/heads/main' was rewritten
+09:41:26 From  Participant28  to  Everyone:
+	gitu *****
+09:41:28 From  Participant39  to  Everyone:
+	Cannot rewrite branches: You have unstaged changes.
+09:41:40 From  Participant28  to  Everyone:
+	kebanyakan copasnya
+09:43:18 From  Participant2  to  Everyone:
+	aman *****
+09:43:26 From  Participant7  to  Everyone:
+	rewrites.  Hit Ctrl-C before proceeding to abort, then use an
+	         alternative filtering tool such as 'git filter-repo'
+	         ([Link Sharing]) instead.  See the
+	         filter-branch manual page for more details; to squelch this warning,
+	         set FILTER_BRANCH_SQUELCH_WARNING=1.
+	Proceeding with filter-branch...
+	
+	fatal: not a git repository (or any of the parent directories): .git
+09:43:31 From  Host  to  Everyone:
+	git filter-branch --subdirectory-filter M9S1/3-restful-api-to-predict-iris-flower/
+09:43:47 From  Participant31  to  Everyone:
+	found nothing rewrite *****
+09:45:40 From  Participant2  to  Everyone:
+	IP address mismatch
+09:46:07 From  Participant17  to  Everyone:
+	Deletion of directory 'M5S2/.ipynb_checkpoints' failed. Should I try again? (y/n) Y
+	
+	kenapa ya *****
+09:46:12 From  Participant31  to  Everyone:
+	udh bisa *****
+09:46:27 From  Participant31  to  Everyone:
+	blom bisa masuk heroku login
+09:46:48 From  Participant14  to  Everyone:
+	heroku login
+	heroku: Press any key to open up the browser to login or q to exit:
+09:46:53 From  Participant14  to  Everyone:
+	HABIS ITU APA *****C
+09:46:55 From  Participant2  to  Everyone:
+	ok *****
+09:47:06 From  Participant31  to  Everyone:
+	command not found *****
+09:47:15 From  Participant17  to  Everyone:
+	nggak *****, gaada buka jupyter notebook
+09:47:51 From  Participant31  to  Everyone:
+	iya coch
+09:48:02 From  Participant14  to  Everyone:
+	sduah tpi gk muncul link https nya *****
+09:48:15 From  Participant17  to  Everyone:
+	oke *****
+09:48:20 From  Participant40  to  Everyone:
+	Cannot rewrite branches: Your index contains uncommitted changes.
+09:48:25 From  Participant31  to  Everyone:
+	udah *****
+09:48:33 From  Participant40  to  Everyone:
+	***** tadi ini kenapa ya
+09:48:57 From  Participant14  to  Everyone:
+	aman *****
+09:49:52 From  Participant31  to  Everyone:
+	command not found, harus gapai *****:(
+09:50:02 From  Participant40  to  Everyone:
+	Iya bener ***** sudah bisa
+09:50:07 From  Participant2  to  Everyone:
+	masih IP address mismatch *****
+09:52:33 From  Participant5  to  Everyone:
+	di direktori ketikkan cmd aja
+09:52:41 From  Participant5  to  Everyone:
+	direktori file explorer nya
+09:52:43 From  Participant28  to  Everyone:
+	shift+klik kanan
+09:52:44 From  Participant34  to  Everyone:
+	langsung d:
+09:52:51 From  Participant34  to  Everyone:
+	gausah pake cd
+09:53:17 From  Participant41  to  Everyone:
+	d:
+09:54:21 From  Participant25  to  Everyone:
+	mintak verifikasi pilih metode mana *****?
+09:55:00 From  Participant25  to  Everyone:
+	heroku *****
+09:55:05 From  Participant25  to  Everyone:
+	pas login
+09:56:06 From  Participant14  to  Everyone:
+	bias later
+09:56:24 From  Participant38  to  Everyone:
+	cancel dulu
+09:56:27 From  Participant14  to  Everyone:
+	klik dlu ajah salah satu ntr muncul tlssan later
+09:57:26 From  Participant22  to  Everyone:
+	Sama ***** timeout
+09:57:35 From  Participant22  to  Everyone:
+	Udah 2 kali :"
+09:58:19 From  Participant25  to  Everyone:
+	oke *****
+09:58:33 From  Participant22  to  Everyone:
+	Oke ***** di coba lagi
+09:58:43 From  Participant7  to  Everyone:
+	WARNING: git-filter-branch has a glut of gotchas generating mangled history
+	         rewrites.  Hit Ctrl-C before proceeding to abort, then use an
+	         alternative filtering tool such as 'git filter-repo'
+	         ([Link Sharing]) instead.  See the
+	         filter-branch manual page for more details; to squelch this warning,
+	         set FILTER_BRANCH_SQUELCH_WARNING=1.
+	Proceeding with filter-branch...
+	
+	fatal: not a git repository (or any of the parent directories): .git
+09:58:47 From  Participant7  to  Everyone:
+	ini kenapa ya *****?
+09:59:13 From  Participant7  to  Everyone:
+	sudah *****
+10:00:00 From  Participant7  to  Everyone:
+	iya *****
+10:00:07 From  Participant7  to  Everyone:
+	apa beda ya untuk filter nya?
+10:00:18 From  Participant7  to  Everyone:
+	udah init nya *****
+10:02:07 From  Participant7  to  Everyone:
+	oke *****, thanks
+10:02:26 From  Participant34  to  Everyone:
+	Enumerating objects: 5, done.
+	Counting objects: 100% (5/5), done.
+	Delta compression using up to 8 threads
+	Compressing objects: 100% (4/4), done.
+	Writing objects: 100% (5/5), 545 bytes | 272.00 KiB/s, done.
+	Total 5 (delta 2), reused 0 (delta 0), pack-reused 0
+	remote: error: pathspec '.' did not match any file(s) known to git.
+	remote:
+	remote: !       Heroku Git error, please try again shortly.
+	remote: !       See http://status.heroku.com for current Heroku platform status.
+	remote: !       If the problem persists, please open a ticket
+	remote: !       on https://help.heroku.com/tickets/new
+	remote: !       and provide the Request ID 0b93fdf2-a750-4c38-97f1-b92e6a4aaf48
+	remote:
+	To [Link Sharing]
+	 ! [remote rejected] main -> main (pre-receive hook declined)
+	error: failed to push some refs to '[Link Sharing]'
+10:02:34 From  Participant34  to  Everyone:
+	error waktu push *****
+10:05:17 From  Participant25  to  Everyone:
+	Warning: heroku update available from 7.53.0 to 7.60.1.
+	manage local git repository for app
+	
+	USAGE
+	  $ heroku git:COMMAND
+	
+	COMMANDS
+	  git:clone   clones a heroku app to your local machine at DIRECTORY (defaults to app name)
+	  git:remote  adds a git remote to an app repo ada warning *****
+10:06:29 From  Participant25  to  Everyone:
+	ada typo *****
+10:12:12 From  Participant2  to  Everyone:
+	Enumerating objects: 5, done.
+	Counting objects: 100% (5/5), done.
+	Delta compression using up to 4 threads
+	Compressing objects: 100% (4/4), done.
+	Writing objects: 100% (5/5), 545 bytes | 272.00 KiB/s, done.
+	Total 5 (delta 2), reused 0 (delta 0), pack-reused 0
+	remote: error: pathspec '.' did not match any file(s) known to git.
+	remote:
+	remote: !       Heroku Git error, please try again shortly.
+	remote: !       See http://status.heroku.com for current Heroku platform status.
+	remote: !       If the problem persists, please open a ticket
+	remote: !       on https://help.heroku.com/tickets/new
+	remote: !       and provide the Request ID a1abcfba-0031-4def-a545-a94b650a1371
+	remote:
+	To [Link Sharing]
+	 ! [remote rejected] main -> main (pre-receive hook declined)
+	error: failed to push some refs to '[Link Sharing]'
+10:16:16 From  Participant25  to  Everyone:
+	udah smpe buka app *****
+10:17:11 From  Participant34  to  Everyone:
+	sudah *****
+10:17:41 From  Participant28  to  Everyone:
+	***** link sy pas dipencet katanya Method not Allowed
+10:17:57 From  Participant28  to  Everyone:
+	sip
+10:18:01 From  Participant2  to  Everyone:
+	ok *****
+10:18:07 From  Participant28  to  Everyone:
+	bisa *****
+10:18:09 From  Participant34  to  Everyone:
+	kalo git remote udh ada ***** yg heroku
+10:18:50 From  Participant34  to  Everyone:
+	saya ijin share screen *****
+10:19:15 From  Participant42  to  Everyone:
+	kalua pakai Gunicorn itu limitnya sampai 500MB  ya *****?
+10:20:48 From  Participant2  to  Everyone:
+	sama *****
+10:20:50 From  Participant2  to  Everyone:
+	kosong
+10:22:38 From  Participant23  to  Everyone:
+	kalo upload di heroku maksimal upload berapa aplikasi *****?
+10:29:47 From  Participant23  to  Everyone:
+	minimal localhost kayaknya
+10:29:50 From  Participant12  to  Everyone:
+	minimal di localhost *****
+10:29:56 From  Participant38  to  Everyone:
+	boleh local kalo tidak salah *****
+10:31:52 From  Participant26  to  Everyone:
+	yg tugas minggu kemarin y *****?
+10:31:57 From  Participant43  to  Everyone:
+	list yg belum ngumpulin tugas teknikal ada tidak *****
+10:32:57 From  Host  to  Everyone:
+	Tugas (Deadline Jumat 29 April 2022 Pukul 23:59 WIB)
+	Tugas pengganti bagi siswa yang belum submit Tugas Flask
+	Bagi siswa yang sudah submit Tugas Flask, tidak perlu submit Tugas Heroku lagi
+	Tugas bisa dikerjakan secara individu atau berkelompok (maksimal 3 orang dalam 1 kelompok)
+	Buat dokumentasi cara Project Deployment di Heroku (format file PDF) mengikuti modul latihan berikut : [Link Sharing]
+	Form Pengumpulan Tugas : [Link Sharing]
+	Submit dilakukan oleh 1 siswa saja (perwakilan dari kelompok). Anggota kelompok lainnya tidak perlu submit ulang. 
+	Berikan Link Aplikasi Web yang telah Berhasil di-Deploy menggunakan Heroku
+	Upload Screenshot Tampilan Aplikasi Web 
+	Upload File Dokumentasi cara Project Deployment di Heroku (format file PDF - max 10 MB)
+10:34:09 From  Participant21  to  Everyone:
+	***** ada list untuk yang belum mengumpulkan tugas flask ngga ?
+10:34:24 From  Participant44  to  Host(Direct Message):
+	***** kemarin ternyata salah mengerjakan harusnya kan weight prediction nah itu saya buatnya gender prediction, apakah wajib mengerjakan yang ini *****?
+10:34:37 From  Participant45  to  Everyone:
+	bagi ***** biar tau , takutnya kelupaan
+10:34:47 From  Participant45  to  Everyone:
+	***** boleh minta linknya? sinyal jelek tadi keluar
+10:34:52 From  Participant45  to  Everyone:
+	ngirim tugasnya
+10:35:02 From  Participant3  to  Everyone:
+	***** kalo tugas yg dulu telat mengirim bagaimana ya?
+10:35:05 From  Host  to  Everyone:
+	Tugas (Deadline Jumat 29 April 2022 Pukul 23:59 WIB)
+	Tugas pengganti bagi siswa yang belum submit Tugas Flask
+	Bagi siswa yang sudah submit Tugas Flask, tidak perlu submit Tugas Heroku lagi
+	Tugas bisa dikerjakan secara individu atau berkelompok (maksimal 3 orang dalam 1 kelompok)
+	Buat dokumentasi cara Project Deployment di Heroku (format file PDF) mengikuti modul latihan berikut : [Link Sharing]
+	Form Pengumpulan Tugas :[Link Sharing]
+	Submit dilakukan oleh 1 siswa saja (perwakilan dari kelompok). Anggota kelompok lainnya tidak perlu submit ulang. 
+	Berikan Link Aplikasi Web yang telah Berhasil di-Deploy menggunakan Heroku
+	Upload Screenshot Tampilan Aplikasi Web 
+	Upload File Dokumentasi cara Project Deployment di Heroku (format file PDF - max 10 MB)
+10:35:17 From  Participant45  to  Everyone:
+	terimakasih kasih *****
+10:35:31 From  Participant7  to  Host(Direct Message):
+	(base) PS C:\sqlite\aim-technical-main> git push heroku main
+	error: src refspec main does not match any
+	error: failed to push some refs to '[Link Sharing]'
+	
+	***** saya erorr lagi...wkwkwkw
+10:38:19 From  Participant7  to  Host(Direct Message):
+	oke *****
+10:39:38 From  Host  to  Everyone:
+	[Link Sharing]
+10:41:37 From  Participant17  to  Everyone:
+	untuk tugas google studio apakah masih bisa disusulkan *****?
+10:42:28 From  Participant47  to  Everyone:
+	***** belum share screen kah?
+10:42:56 From  Participant3  to  Everyone:
+	kalo yang telat bagaimana ya *****?
+10:44:31 From  Participant29  to  Everyone:
+	***** buat tugas yang time stampnya null itu gimana *****?
+10:44:52 From  Participant20  to  Everyone:
+	maaf ***** izin bertanya untuk timestamp tugas saya null tapi Latenya False itu tidak ada pengurangan kan *****?
+10:45:14 From  Participant31  to  Everyone:
+	klo memperbaiki tugas gabisa ya *****:)
+10:45:23 From  Participant20  to  Everyone:
+	baik ***** terimakasih
+10:45:36 From  Participant31  to  Everyone:
+	ada yg salah:)
+10:45:44 From  Participant31  to  Everyone:
+	soalnya kan sekali ngirim
+10:46:20 From  Participant22  to  Everyone:
+	***** kalau count of late itu .. tugas yang belum?
+10:46:21 From  Participant45  to  Everyone:
+	pembuatan model kemarin gagal ***** jadi salah :(
+10:46:31 From  Participant41  to  Everyone:
+	timestamp null gpp *****?
+10:47:03 From  Participant31  to  Everyone:
+	di set link kumpulin jangan sekali ***** :)
+10:47:10 From  Participant31  to  Everyone:
+	aku klik udh kerekap
+10:47:39 From  Participant48  to  Everyone:
+	maaf *****, untuk absen saya yang izin itu saya izin ke ***** hassan, ***** kelas saya di *****, itu bagaimana ya *****?
+10:48:00 From  Participant49  to  Everyone:
+	nama saya kok ga ada di daftar absensi ya *****?
+10:48:00 From  Participant50  to  Everyone:
+	pak boleh minta siapa aja yg udh ngumpulin dah siapa aja yg blom ngumpulin🙏
+10:48:35 From  Participant45  to  Everyone:
+	***** saya tugas kelompok gak masuk ya
+10:48:42 From  Participant3  to  Everyone:
+	***** bagian Form izin itu ada menyertakan file pendukung, kalua ijin karena berduka, harus menyertakan apa ya *****?
+10:48:45 From  Participant45  to  Everyone:
+	padahal kelompok syaa masuk
+10:48:47 From  Participant49  to  Everyone:
+	oh ok ***** makasih
+10:49:00 From  Participant48  to  Everyone:
+	di tanggal 25, saya izin tidak bisa ikut zoom karena perpanjang SIM di samsat *****, sudah izin ke ***** kelas tetap hitungannya ga izin ya *****? :(
+10:49:28 From  Participant45  to  Everyone:
+	EH ADA DEH , ya allah harus capslock
+10:50:09 From  Participant45  to  Everyone:
+	😂 kenapa querynya gak pake where like  atau dinormalisasi wkwkwk
+10:50:19 From  Participant48  to  Everyone:
+	Baik *****, terima kasih *****🙏🏻
+10:50:40 From  Participant31  to  Everyone:
+	timestamp null di assignment artinya apa *****?
+10:50:59 From  Participant49  to  Everyone:
+	***** nama saya kok gaada ya *****? :(
+10:51:29 From  Participant21  to  Everyone:
+	***** izin bertanya untuk total hadir keseluruhan itu 6 ya ?
+10:51:40 From  Participant3  to  Everyone:
+	Baik *****, terimakasih *****
+10:51:41 From  Participant50  to  Everyone:
+	maaf pak link buat tau udh ngumpulin sama yg belom yg mana yah *****🙏
+10:51:57 From  Host  to  Everyone:
+	[Link Sharing]
+10:52:06 From  Host  to  Everyone:
+	[Link Sharing]
+10:52:32 From  Participant2  to  Everyone:
+	jelas *****
+10:52:39 From  Participant35  to  Everyone:
+	Berarti yg libur jumat kemarin ga trrhitung ya *****
+10:52:40 From  Participant25  to  Everyone:
+	jelas *****
+10:52:43 From  Participant45  to  Everyone:
+	ringan banget subhannallah
+10:52:50 From  Participant9  to  Everyone:
+	makasih ya *****
+10:52:54 From  Participant51  to  Everyone:
+	***** kalo timestamp null tapi late FALSE gimana *****?
+10:53:12 From  Participant48  to  Everyone:
+	maaf *****, untuk tugas 1 itu, saya mengumpulkan melalui email *****, tapi di sistem belum masuk ya?
+10:53:26 From  Participant51  to  Everyone:
+	baik *****, terima kasih
+10:53:31 From  Participant45  to  Everyone:
+	kalua true bakalan berkurang brp *****
+10:53:39 From  Participant17  to  Everyone:
+	*****, cara ngakses file ipynb di ***** itu gimana ya *****?
+10:54:20 From  Participant48  to  Everyone:
+	Iya *****, karena form nya sudah tidak bisa
+10:54:47 From  Participant26  to  Everyone:
+	kalau flase artinya apa *****
+10:54:51 From  Participant26  to  Everyone:
+	false
+10:54:53 From  Participant35  to  Everyone:
+	Nahh iya ***** untuk download file ipynb di ***** itu
+10:54:57 From  Participant45  to  Everyone:
+	passing grade nya brp *****
+10:55:07 From  Participant36  to  Everyone:
+	ga bias *****
+10:55:18 From  Participant48  to  Everyone:
+	Jadi bagaimana ***** yang tugas 1 perlu kirim ulang atau engga? soalnya waktu itu sudah kontak ***** langsung untuk kirim tugas lewat email
+10:55:39 From  Participant2  to  Everyone:
+	download file ipynb di ***** itu gimana *****?
+10:55:48 From  Participant45  to  Everyone:
+	terus ***** telat sekrang sama yang telatnya 1-2 jam yang bekamrin sama gak *****
+10:55:54 From  Participant36  to  Everyone:
+	yang materi pendukung gabisa di download semua di *****
+10:55:58 From  Participant52  to  Everyone:
+	***** rekaman yg technical yg minggu minggu ini belum di upload ya?
+10:56:06 From  Host  to  Everyone:
+	*******************
+	Subjek: Pengumpulan Ulang Tugas - Nama Tugas
+10:56:27 From  Participant52  to  Everyone:
+	yg minggu lalu juga coacu belum ada 😅
+10:57:00 From  Participant48  to  Everyone:
+	*****, berarti andry kirim ulang yang Tugas 1 nya ke email lagi?
+10:57:07 From  Participant42  to  Everyone:
+	download file ipynb di ***** bisa pakai GitHub gist
+10:58:03 From  Participant48  to  Everyone:
+	Ada *****?😁terima kasih *****
+10:58:32 From  Participant48  to  Everyone:
+	baik *****, terima kasih🙏🏻
+10:58:45 From  Participant45  to  Everyone:
+	ada yg masih inget tgs git itu yang mana
+10:59:08 From  Participant26  to  Everyone:
+	kalau false yg udah ngerjain sm ngg terlambat kelas y *****?
+10:59:34 From  Participant26  to  Everyone:
+	tugas technical masih 4 kan *****?
+10:59:53 From  Participant22  to  Everyone:
+	Tugas gds itu yang mna yah *****
+10:59:54 From  Participant47  to  Everyone:
+	semua tugas yang belum dikumpulin, kumpulinnya lewat email ya *****?
+10:59:58 From  Participant26  to  Everyone:
+	5 yg sekarang y *****
+11:00:32 From  Participant26  to  Everyone:
+	itu maksud nya false gimana *****?
+	wkwkwk
+11:00:42 From  Participant30  to  Everyone:
+	null tu maksudnya gmn *****?
+11:01:02 From  Participant31  to  Everyone:
+	Modul Latihan Git dan Github
+	[Link Sharing]
+11:01:28 From  Participant43  to  Everyone:
+	yg tugas flash kok null timstamp nya *****
+11:01:29 From  Participant30  to  Everyone:
+	iyaa *****, timestampnya null tapi namanya ada
+11:01:41 From  Participant30  to  Everyone:
+	aman berarti *****? alhamdulillah wkwk
+11:01:50 From  Participant36  to  Everyone:
+	***** ini ngolah datanya otomatis ya *****?
+11:01:59 From  Participant55  to  Everyone:
+	***** bisa ada tugas tambahan ga buat nambah nilai, jujur semester ini aku lagi berantakan banget
+11:02:52 From  Participant36  to  Everyone:
+	yang sering ganti2 device gmn ***** wkwk
+11:02:59 From  Participant31  to  Everyone:
+	klo diakhir besok udh keluar nilainya, ada remedial gt ga *****? :)
+11:02:59 From  Participant30  to  Everyone:
+	sabar bang
+11:03:28 From  Participant31  to  Everyone:
+	semester pendek gtu wkwk
+11:03:38 From  Participant26  to  Everyone:
+	null artinya apa *****?
+11:03:56 From  Participant3  to  Everyone:
+	pasrah :)
+11:03:56 From  Participant5  to  Everyone:
+	Kalau dual device, nama sama jadinya gimana *****? 😅
+11:04:15 From  Participant22  to  Everyone:
+	***** yang tugas flusk itu kan kemarin kelompok .. tapi kok ga ke list ya ***** :"
+11:04:19 From  Participant36  to  Everyone:
+	nilai per domain ini ada pengaruh ke nilai PA ga *****?
+11:04:52 From  Participant45  to  Everyone:
+	***** gk ada persenan yaa
+11:04:54 From  Participant5  to  Everyone:
+	Posttest
+11:04:58 From  Participant51  to  Everyone:
+	sudah *****
+11:05:00 From  Participant9  to  Everyone:
+	udh *****
+11:05:01 From  Participant38  to  Everyone:
+	sudah ***** post test
+11:05:04 From  Participant31  to  Everyone:
+	Abis cuti lebaran selain PA masi ada kelas2 gitu *****?
+11:05:04 From  Participant35  to  Everyone:
+	*****
+11:05:12 From  Participant35  to  Everyone:
+	Sehat selalu *****
+11:05:22 From  Participant45  to  Everyone:
+	system penilaianny dr tgs brp , posttest brp  dan project brp
+11:05:24 From  Participant30  to  Everyone:
+	spill kisi kisi ***** 🗿
+11:05:28 From  Participant26  to  Everyone:
+	***** saya dah ngerjain kok null?
+11:05:58 From  Participant56  to  Host(Direct Message):
+	maaf ***** kalo di attendance udah nulis capslock tapi ttp ngga muncul namanya gimana ya?
+11:07:10 From  Participant45  to  Everyone:
+	***** bikin trial post test dong
+11:07:31 From  Participant45  to  Everyone:
+	domain lain jg ada , jadi kaya percobaan/kisis2
+11:08:26 From  Participant56  to  Everyone:
+	iya *****
+11:09:32 From  Participant7  to  Everyone:
+	soalnya gabungan bbrp domain ya ***** dlam 2.5 jam itu?
+11:10:00 From  Participant47  to  Everyone:
+	trial post test di kahoot biar seru
+11:10:48 From  Participant30  to  Everyone:
+	nlp kemaren pakai kahoot ***** 🗿
+11:10:57 From  Participant57  to  Host(Direct Message):
+	***** kalau ada materi yang belum diterangkan pada silabus awal, apakah akan tetap diupload di ***** sebagai self-learning ya *****?
+11:11:01 From  Participant31  to  Everyone:
+	cuti lebaran smpe kapan *****?
+11:11:13 From  Participant55  to  Everyone:
+	eh bentar *****
+11:11:14 From  Participant57  to  Everyone:
+	6
+11:11:16 From  Participant55  to  Everyone:
+	abis 2 hari posttest
+11:11:18 From  Participant55  to  Everyone:
+	apakah ada kelas
+11:11:20 From  Participant55  to  Everyone:
+	apa langsung libur
+11:11:48 From  Participant55  to  Everyone:
+	oh ok siap thank you *****
+11:11:49 From  Participant58  to  Everyone:
+	data pengumpulan tugas di update otomatis?
+11:11:50 From  Participant35  to  Everyone:
+	***** untuk nilai ini nantinya menentukan apa *****?
+11:12:04 From  Participant22  to  Everyone:
+	***** .. di bagian tugas ada salah satu tugas yang namanya beda, jadi ada singkatan gitu ***** di namanya. Itu gkppa *****?
+11:12:33 From  Participant22  to  Everyone:
+	Iya *****
+11:12:38 From  Participant22  to  Everyone:
+	Ada yang ga pake nama lengkap
+11:13:06 From  Participant22  to  Everyone:
+	Tapi Kalau di ketik RIJAL ada semua *****
+11:13:28 From  Participant31  to  Everyone:
+	TERIMAKASII *****
+11:13:30 From  Participant22  to  Everyone:
+	Terimakasih *****
+11:13:38 From  Participant48  to  Everyone:
+	terima kasih banyak *****🙏🏻
+11:13:39 From  Participant59  to  Everyone:
+	terima kasih banyak *****
+11:13:40 From  Participant60  to  Everyone:
+	terimakasih *****
+11:13:40 From  Participant2  to  Everyone:
+	ada foto *****?
+11:13:45 From  Participant36  to  Everyone:
+	terima kasih *****
+11:13:47 From  Participant35  to  Everyone:
+	Terimakasiihh *****
+11:13:49 From  Participant61  to  Everyone:
+	terimakasih *****
+11:13:51 From  Participant26  to  Everyone:
+	jgn lupa kue lebaran nya *****
+11:13:54 From  Participant3  to  Everyone:
+	Terimakasih *****
+11:14:02 From  Participant38  to  Everyone:
+	terima kasih *****
+11:14:02 From  Participant47  to  Everyone:
+	Terima kasih *****, mohon maaf lahir batin
+11:14:02 From  Participant63  to  Everyone:
+	terimakasih *****
+11:14:07 From  Participant64  to  Host(Direct Message):
+	happy Ramadhan *****
+11:14:10 From  Participant30  to  Everyone:
+	open house ga *****?
+11:14:24 From  Participant26  to  Everyone:
+	kirim Jakarta y ***** kue lebarannya.wkwkkw
+11:14:52 From  Host  to  Everyone:
+	[Link Sharing]
+11:15:13 From  Participant14  to  Everyone:
+	ada sirup marzan gak
+11:15:14 From  Participant36  to  Everyone:
+	lah wong kitoo
+11:15:15 From  Participant25  to  Everyone:
+	kirim ke pdang ***** wkwk
+11:15:19 From  Participant30  to  Everyone:
+	lah wkwkwk
+11:15:22 From  Participant35  to  Everyone:
+	***** wfh *****?
+11:15:30 From  Participant45  to  Everyone:
+	kirain ornag jawa *****
+11:15:43 From  Participant14  to  Everyone:
+	***** lampung terkenal kopi nya enak tuh
+11:15:51 From  Participant3  to  Everyone:
+	foto *****
+11:15:55 From  Participant26  to  Everyone:
+	lampumg masih sumatera
+11:16:10 From  Participant30  to  Everyone:
+	lampung itu di inggris
+11:16:19 From  Participant26  to  Everyone:
+	nge lutting udah
+	wkwkw
+11:16:23 From  Participant26  to  Everyone:
+	kalau oncam
+11:16:37 From  Participant30  to  Everyone:
+	yok para buaya hunting yok
+11:16:55 From  Participant45  to  Everyone:
+	izin camera rusah *****
+11:17:57 From  Participant30  to  Everyone:
+	terima kasih *****
+11:17:58 From  Participant51  to  Everyone:
+	thumbs up
