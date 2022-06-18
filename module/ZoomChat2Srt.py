@@ -68,7 +68,7 @@ class ZoomChat2Txt:
     def generate_delays(self):
         for i in range(len(self.messages)):
             text_list = re.split("\s", self.messages[i])
-            result = len(text_list) * 200
+            result = len(text_list) * 750
             if result > 3000:
                 result = 3000
             self.delays.append(result)
