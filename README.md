@@ -1,6 +1,6 @@
 # Zoom Chat to Subtitle
 Convert Zoom's saved meeting chat (txt) into subtitle file (srt). Using this tool, the recorded Zoom Video can be played along with the chat as a subtitle.
-
+![](https://raw.githubusercontent.com/rasyidev/zoom-chat-to-subtitle/main/demo-zoom-chat-to-subtitle.gif)
 
 ### Clone This Repository
 
