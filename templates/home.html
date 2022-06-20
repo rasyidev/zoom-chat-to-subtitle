@@ -11,6 +11,10 @@
   <form action="" method="post" enctype="multipart/form-data">
     <input type="file" name="file">
     <button type="submit">Submit</button>
+
+    {% if download_link %}
+      <a href="/download">Download Hasil</a>
+    {% endif%}
   </form>
 </body>
 </html>
