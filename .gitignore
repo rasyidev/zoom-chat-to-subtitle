@@ -2,3 +2,5 @@
 __pycache__
 module/__pycache__
 .env
+uploads/*
+!uploads/meeting_saved_chat_example.txt
