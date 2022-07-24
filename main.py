@@ -6,7 +6,7 @@ import argparse
 parser = argparse.ArgumentParser(
   prog = "ZoomChat2Srt",
   description = "Convert Zoom chat text file into subtitle srt file",
-  usage="python main.py \"meeting_saved_chat.txt\""
+  usage="python main.py \"uploads/meeting_saved_chat.txt\""
 )
 
 parser.add_argument(
