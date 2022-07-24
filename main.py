@@ -1,5 +1,3 @@
-from distutils.log import error
-from fileinput import filename
 from module.ZoomChat2Srt import ZoomChat2Txt
 import argparse
 
