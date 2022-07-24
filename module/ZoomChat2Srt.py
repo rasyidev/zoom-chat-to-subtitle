@@ -1,4 +1,3 @@
-import codecs
 import re
 from datetime import datetime, date, time, timedelta
 
@@ -17,26 +16,27 @@ class ZoomChat2Txt:
         self.start_hour = self.ts0[0].hour
     
     def extract_ts0(self):
-        temp = re.findall("(\d{2}:\d{2}:\d{2}) From", self.text)
+        temp = re.findall("(\d{2}:\d{2}:\d{2})\s.+?:", self.text)
         for t in temp:
             self.ts0.append(self.txt_to_time(t))
          
     def extract_messages(self):
-        messages = re.split("\d{2}:\d{2}:\d{2} From [ \S]+to [ \S]+:", self.text)
+        messages = re.split("\d{2}:\d{2}:\d{2}\s.+?:", self.text)
         messages.pop(0) # remove the first empty element
         self.messages = [m.strip() for m in messages]
         
     def extract_users(self):
-        users = re.findall("\d{2}:\d{2}:\d{2} From ([ \S]+)to [ \S]+:", self.text)
+        users = re.findall("\d{2}:\d{2}:\d{2}\s(.+?):", self.text)
         self.users = [user.strip() for user in users]
     
     def load_file(self, file_path):
-        f = codecs.open(file_path, 'r', 'utf-8')
+        f = open(file_path, 'r', encoding='utf-8')
         text = f.readlines()
         self.text = ''.join(text)
         self.extract_messages()
         self.extract_ts0()
         self.extract_users()
+        print("START HOUR NIH", self.start_hour)
         self.set_start_hour()
         self.reset_hour()
         self.generate_delays()
@@ -68,9 +68,9 @@ class ZoomChat2Txt:
     def generate_delays(self):
         for i in range(len(self.messages)):
             text_list = re.split("\s", self.messages[i])
-            result = len(text_list) * 750
-            if result > 3000:
-                result = 3000
+            result = len(text_list) * 1000
+            if result > 5000:
+                result = 5000
             self.delays.append(result)
             
     def display_result(self, elements=5):
@@ -82,7 +82,7 @@ class ZoomChat2Txt:
             
             
     def save_srt(self, file_path):
-        with codecs.open(file_path, 'w+', 'utf-8') as f:
+        with open(file_path, 'w+', encoding='utf-8') as f:
             for i in range(len(self.users)):
                 ts1ms = f"{int([self.ts1[0].microsecond/1000 if self.ts1[0].microsecond >= 100000 else self.ts1[0].microsecond][0]):03d}"
                 f.write(str(i+1))
