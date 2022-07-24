@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download File</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    {% if sid %}
+    <div class="flex justify-center items-center h-screen bg-gray-100 flex-col">
+      <h1 class="text-2xl text-gray-900">Download your file bellow</h1>
+      <a id="download_file" href="download/{{ sid }}" target="_blank" class="items-center justify-center w-full px-5 py-3 text-base font-medium text-white transition-colors duration-150 transform sm:w-auto bg-gradient-to-r from-blue-700 to-blue-900 hover:from-blue-600 hover:to-blue-600 rounded-lg m-5">Download</a>
+    </div>
+    {% else %}
+      <div class="flex justify-center items-center flex-col">
+        <h1 class="text-2xl text-red-500">Your file is not uploaded yet</h1>
+        <a href="#convert_file"
+              class="inline-flex items-center justify-center w-full p-5 py-3 text-base font-medium text-white transition-colors duration-150 transform sm:w-auto bg-gradient-to-r from-blue-700 to-blue-900 hover:from-blue-600 hover:to-blue-600">
+              <span class="mx-2">
+                Upload File
+              </span>
+            </a>
+      </div>  
+    {% endif %}
+</body>
+<script>
+  const downloadBtn = document.getElementById("download_file");
+  downloadBtn.addEventListener('click', () => {
+    setTimeout(() => {
+      location.href = "/"
+    }, 2000)
+  })
+</script>
+</html>
